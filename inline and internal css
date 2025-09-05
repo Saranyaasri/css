@@ -1,3 +1,4 @@
+<head>
 <style>
     div{
         background-color: red;
@@ -6,7 +7,10 @@
 
     }
 </style>
+</head>
+<body>
 <div>
     <h1 style="color:green">iloveindia</h1>
     <p style="color:pink">always</p>
 </div>
+</body>
